@@ -1,1 +1,2 @@
-# VPEHackathon2024
+# ODE-Based Simulation of Inflammatory Bowel Disease – Source: Kilian et al., 2024
+Reproduced a published mathematical ODE (ordinary differential equation) model from the paper titled "Longitudinal single-cell data informs deterministic modelling of inflammatory bowel disease". From this study, 3 models were curated and annotated according to standard ontologies and figures 1c, 2c, 4c from the paper were reproduced. The curated models from this project were developed for submission to the BioModels database during Virtual Patient Engine Hackathon 2024.
